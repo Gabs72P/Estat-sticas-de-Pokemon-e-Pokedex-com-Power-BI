@@ -56,5 +56,10 @@ Uma área dedicada à consulta individual dos Pokémon:
 
 ## 📷 Capturas de Tela
 
+### Página 1 – Visão Geral
+![Página 1](https://github.com/Gabs72P/Estat-sticas-de-Pokemon-e-Pokedex-com-Power-BI/blob/main/capturas%20de%20tela/geral.PNG?raw=true)
+
+### Página 2 – Pokédex Interativa
+![Página 2](https://github.com/Gabs72P/Estat-sticas-de-Pokemon-e-Pokedex-com-Power-BI/blob/main/capturas%20de%20tela/individual.PNG?raw=true)
 
 
